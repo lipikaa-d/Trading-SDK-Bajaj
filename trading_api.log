@@ -1,0 +1,28 @@
+2026-01-08 19:25:34,673 - app.main - INFO - Starting Trading API SDK...
+2026-01-08 19:25:34,674 - app.main - INFO - Loaded 5 sample instruments
+2026-01-08 19:25:34,674 - app.main - INFO - Trading API SDK startup complete
+2026-01-08 19:25:34,674 - app.main - INFO - Available endpoints:
+2026-01-08 19:25:34,674 - app.main - INFO -   GET /api/v1/instruments - List all instruments
+2026-01-08 19:25:34,674 - app.main - INFO -   POST /api/v1/orders - Place new order
+2026-01-08 19:25:34,674 - app.main - INFO -   GET /api/v1/orders/{order_id} - Get order status
+2026-01-08 19:25:34,674 - app.main - INFO -   GET /api/v1/trades - List all trades
+2026-01-08 19:25:34,674 - app.main - INFO -   GET /api/v1/portfolio - Get portfolio holdings
+2026-01-08 19:25:34,674 - app.main - INFO -   GET /health - Health check
+2026-01-08 19:25:34,674 - app.main - INFO -   GET /docs - API documentation
+2026-01-08 20:28:41,314 - app.main - INFO - Starting Trading API SDK...
+2026-01-08 20:28:41,315 - app.main - INFO - Loaded 5 sample instruments
+2026-01-08 20:28:41,315 - app.main - INFO - Trading API SDK startup complete
+2026-01-08 20:28:41,315 - app.main - INFO - Available endpoints:
+2026-01-08 20:28:41,316 - app.main - INFO -   GET /api/v1/instruments - List all instruments
+2026-01-08 20:28:41,316 - app.main - INFO -   POST /api/v1/orders - Place new order
+2026-01-08 20:28:41,316 - app.main - INFO -   GET /api/v1/orders/{order_id} - Get order status
+2026-01-08 20:28:41,316 - app.main - INFO -   GET /api/v1/trades - List all trades
+2026-01-08 20:28:41,316 - app.main - INFO -   GET /api/v1/portfolio - Get portfolio holdings
+2026-01-08 20:28:41,317 - app.main - INFO -   GET /health - Health check
+2026-01-08 20:28:41,317 - app.main - INFO -   GET /docs - API documentation
+2026-01-08 20:41:19,128 - app.main - INFO - Shutting down Trading API SDK...
+2026-01-08 20:41:19,133 - app.main - INFO - Final statistics:
+2026-01-08 20:41:19,133 - app.main - INFO -   Total orders processed: 1
+2026-01-08 20:41:19,133 - app.main - INFO -   Total trades executed: 1
+2026-01-08 20:41:19,134 - app.main - INFO -   Portfolio positions: 1
+2026-01-08 20:41:19,134 - app.main - INFO - Trading API SDK shutdown complete

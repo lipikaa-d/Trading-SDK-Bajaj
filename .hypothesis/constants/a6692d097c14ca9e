@@ -1,0 +1,4 @@
+# file: /Users/shivangisingh/Downloads/trading-sdk/app/main.py
+# hypothesis_version: 6.148.8
+
+[400, 422, 500, '*', '.', '/api/v1', '/health', '1.0.0', 'Trading API SDK', 'VALIDATION_ERROR', 'field', 'healthy', 'instruments', 'loc', 'message', 'msg', 'orders', 'portfolio', 'service', 'status', 'trades', 'type', 'validation_errors', 'version']

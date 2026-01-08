@@ -1,0 +1,4 @@
+# file: /Users/shivangisingh/Downloads/trading-sdk/app/exceptions.py
+# hypothesis_version: 6.148.8
+
+[400, 404, 422, 500, 'INSTRUMENT_NOT_FOUND', 'INSUFFICIENT_BALANCE', 'INVALID_ORDER_STATE', 'ORDER_NOT_FOUND', 'TRADING_ERROR', 'VALIDATION_ERROR', 'code', 'details', 'error', 'message']

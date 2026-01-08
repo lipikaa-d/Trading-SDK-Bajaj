@@ -1,0 +1,4 @@
+# file: /Users/shivangisingh/Downloads/trading-sdk/app/main.py
+# hypothesis_version: 6.148.8
+
+[400, 422, 500, 503, '*', '.', '/api/v1', '/docs', '/health', '/redoc', '1.0.0', 'Available endpoints:', 'Trading API SDK', 'VALIDATION_ERROR', 'components', 'error', 'field', 'healthy', 'instruments', 'instruments_loaded', 'loc', 'message', 'msg', 'operational', 'order_service', 'orders', 'portfolio', 'portfolio_positions', 'portfolio_service', 'service', 'shutdown', 'startup', 'status', 'storage', 'system_stats', 'timestamp', 'total_orders', 'total_trades', 'trade_service', 'trades', 'trading_api.log', 'type', 'unhealthy', 'validation_errors', 'version']
